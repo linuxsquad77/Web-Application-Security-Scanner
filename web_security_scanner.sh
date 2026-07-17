@@ -1,11 +1,3 @@
-#!/bin/bash
-#=========================================================================#
-# LINUXSQUAD v10 - AUTOMATIC PROXY ROTATION + SMUGGLING EXPLOIT ENGINE   #
-# Stealth | Auto-Proxy | Smuggling | WAF Bypass | Exploitation            #
-#=========================================================================#
-# I have permission and am authorized to perform this pentest             #
-#=========================================================================#
-
 KRM='\033[31;1m'; CYAN='\033[36;1m'; Y='\033[33;1m'; T='\033[32;1m'
 BEYAZ='\033[37;1m'; M='\033[34;1m'; MOR='\033[35;1m'; NC='\033[0m'
 
