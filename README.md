@@ -1,6 +1,6 @@
 # LINUXSQUAD v10
 
-**LINUXSQUAD v10 is a Bash-based authorized web application security assessment framework designed for penetration testing, reconnaissance, and defensive security validation in environments where you have explicit permission to test.
+LINUXSQUAD v10 is a Bash-based authorized web application security assessment framework designed for penetration testing, reconnaissance, and defensive security validation in environments where you have explicit permission to test.
 
 The project combines multiple reconnaissance and verification techniques into a single workflow to help security professionals identify common web application weaknesses and infrastructure misconfigurations.
 
@@ -66,6 +66,6 @@ This project is intended only for authorized security testing, laboratory enviro
 
 The author does not encourage or authorize testing systems without permission. Users are solely responsible for complying with applicable laws, organizational policies, and ethical security practices.
 
-License**
+License
 
 Use responsibly and only within legal and authorized environments.<img width="1088" height="673" alt="18896" src="https://github.com/user-attachments/assets/0aa8e623-e70c-4a4f-8804-5f73e1deb0ab" />
